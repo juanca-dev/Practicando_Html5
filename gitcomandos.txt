@@ -1,0 +1,8 @@
+git init => Inicializar repositorio.
+git add . => Agregar archivos a stating area / lista de espera.
+git commit -m "comentario" => Crear una nueva versión de nuestro proyecto.
+git status => Ver el estado de nuestro repositorio y sus archivos.
+git branch => Ver nuestras ramas y la rama en la que estamos.
+git checkout -b nombre-de-la-rama => Crear una nueva rama.
+git checkout nombre-de-la-rama => Movernos hacia una rama.
+git merge nombre-de-la-rama => Traer los cambios de una rama.
